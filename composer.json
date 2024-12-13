@@ -1,5 +1,5 @@
 {
-    "name": "zofe/burp",
+    "name": "adu42/burp",
     "description": "Simple PHP router that works with query-string and uri-segments, laravel filter system",
     "keywords": ["php","router", "filter", "front controller", "simple"],
     "homepage": "https://github.com/zofe/burp",
